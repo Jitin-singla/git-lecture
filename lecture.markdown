@@ -140,3 +140,5 @@ To learn how to use vim effectively, type 'vimtutor' in terminal.
 * [Pragmatic Version Control using Git](http://pragprog.com/book/tsgit/pragmatic-version-control-using-git)
 * [Why Git is Better than X](http://whygitisbetterthanx.com/) - Replace X with any VCS
 * [A successful Git branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+//was trying to clone it, creaet my another remote to get updates as u explained me....
